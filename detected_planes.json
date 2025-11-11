@@ -1,0 +1,47 @@
+[
+  {
+    "type": "HORIZONTAL_UPWARD_FACING",
+    "trackingState": "TRACKING",
+    "extentX": 0.6036583,
+    "extentZ": 1.1511747,
+    "centerPose": [
+      -0.46841553,
+      -0.97363776,
+      -0.4630618,
+      3.772578E-17,
+      0.4670163,
+      1.9924885E-17,
+      0.8842487
+    ]
+  },
+  {
+    "type": "HORIZONTAL_UPWARD_FACING",
+    "trackingState": "TRACKING",
+    "extentX": 1.1532038,
+    "extentZ": 2.169622,
+    "centerPose": [
+      -0.581632,
+      -0.21749516,
+      -0.85629654,
+      3.6077082E-17,
+      0.5338089,
+      2.2774537E-17,
+      0.84560513
+    ]
+  },
+  {
+    "type": "VERTICAL",
+    "trackingState": "TRACKING",
+    "extentX": 0.2776342,
+    "extentZ": 0.65913814,
+    "centerPose": [
+      -0.16807598,
+      -0.19574934,
+      -0.3664467,
+      0.05316729,
+      0.3417124,
+      0.7051051,
+      0.6190579
+    ]
+  }
+]
